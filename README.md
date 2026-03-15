@@ -11,3 +11,10 @@ Repositorio com codigos fontes e documentação para a cadeira de sistemas embar
     Alimentação: Bateria LiFePO4 (4S);
 
  ![Atividade 1](doc/image/Diagrama_de_blocos.png "Atividade 1")
+
+
+ ## Atividade 2
+
+    Elabore o diagrama esquemático para o sistema de monitoramento de temperatura com base no diagrama em bloco da atividade 1.
+
+![Atividade 2](doc/image/esquematico.png "Atividade 2")
